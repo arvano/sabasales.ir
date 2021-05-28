@@ -232,7 +232,6 @@
 
           <!-- Scroll Horizontal -->
           <div class="Slide_horizontal_scroll">
-            <img class="title_svg" src="../../assets/img/text.svg" />
             <div id="pinContainer">
               <div class="container">
                 <div id="slideContainer">
@@ -240,7 +239,7 @@
                     <div class="col-md-12">
                       <div class="item_slide panel">
                         <div class="block_img">
-                          <img src="../../assets/img/02.png" alt="" />
+                          <img src="/assets/img/lead-detail.png" alt="" />
                           <div class="item__name">
                             <div class="txt">
                               <h4 class="txt1">Budget</h4>
@@ -253,7 +252,7 @@
                     <div class="col-md-12">
                       <div class="item_slide panel">
                         <div class="block_img">
-                          <img src="../../assets/img/03.png" alt="" />
+                          <img src="/assets/img/lead-detail.png" alt="" />
                           <div class="item__name">
                             <div class="txt">
                               <h4 class="txt1">Budget</h4>
@@ -266,7 +265,7 @@
                     <div class="col-md-12">
                       <div class="item_slide panel">
                         <div class="block_img">
-                          <img src="../../assets/img/04.png" alt="" />
+                          <img src="/assets/img/lead-detail.png" alt="" />
                           <div class="item__name">
                             <div class="txt">
                               <h4 class="txt1">Budget</h4>
@@ -279,7 +278,7 @@
                     <div class="col-md-12">
                       <div class="item_slide panel">
                         <div class="block_img">
-                          <img src="../../assets/img/01.png" alt="" />
+                          <img src="/assets/img/lead-detail.png" alt="" />
                           <div class="item__name">
                             <div class="txt">
                               <h4 class="txt1">Budget</h4>
