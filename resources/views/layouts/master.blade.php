@@ -6,7 +6,7 @@
   @include('layouts.headerCss')
 </head>
 
-<body>
+<body class="bg-pricing_list">
   <div id="wrapper">
     <div id="content">
       <!-- Start header -->

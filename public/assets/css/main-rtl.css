@@ -9374,7 +9374,7 @@ software_web
 }
 
 .bg-pricing_list {
-  background-color: rgba(253, 107, 59, 0.05);
+  _background-color: rgba(253, 107, 59, 0.05);
 }
 .bg-pricing_list::before {
   content: "";
