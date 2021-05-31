@@ -49,13 +49,20 @@ return [
 	'Get more hot leads fed straight' => 'معاملات را به صورت کانبان و لیستی مشاهده و به راحتی نمای کلی ار سرنخ خود را در لحظه مشاهده کنید',
 	'Track communications' => 'ردیابی سوابق و پیگیری',
 	'Track communications doc' => 'تماس ها ، ایمیل ها و تاریخچه تماس ها را دقیقاً در محلی که نیاز دارید ردیابی کنید',
-	'Insights and reports workflow' => 'اطلاعت عمیق از گزارش‌ها بگیرید و عملکرد شرکت را در برابر اهداف تعیین شده اندازه گیری کنید
-
-',
+	'Insights and reports workflow' => 'اطلاعت عمیق از گزارش‌ها بگیرید و عملکرد شرکت را در برابر اهداف تعیین شده اندازه گیری کنید',
 	'Insights and reports' => 'بینش ها و گزارش ها',
 	'comminsoom' => 'به زودی قرار داده می شود',
 	'learn book' => 'کاتالوک آموزشی',
-	'Get Started Free' => 'ثبت نام'
+	'Get Started Free' => 'ثبت نام',
+	'Sign up with Google' => 'عضویت با گوگل',
+	'or' => 'یا',
+	"Full name" => 'نام کامل',
+	'Email address' => 'ایمیل',
+	'Company Size' => 'تعداد کارکنان',
+	'Select Company Type' => 'فعالیت کاری شما یا صنعت',
+	'Sign up to saba' => 'عضویت در صبا',
+	'Phone' => 'شماره همراه',
+	'Create Account' => 'ایجاد اشتراک'
 
 ];
 

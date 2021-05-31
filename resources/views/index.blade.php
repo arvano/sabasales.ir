@@ -374,7 +374,7 @@
                               پشتیبانی چت
                             </li>
                           </ul>
-                          <a href="{{ route('register') }}" type="button" class="btn btn_md_primary rounded-8 c-white bg-blue">
+                          <a href="{{ route('register', '60b4b5c2dd5add8ba') }}" type="button" class="btn btn_md_primary rounded-8 c-white bg-blue">
                             ثبت نام
                           </a>
                         </div>
@@ -434,7 +434,7 @@
                               پشتیبانی آنلاین
                             </li>
                           </ul>
-                          <a href="{{ route('register') }}" class="btn  btn_md_primary rounded-8 c-white bg-yollow">
+                          <a href="{{ route('register', '60b4b69a297254508') }}" class="btn  btn_md_primary rounded-8 c-white bg-yollow">
                             ثبت نام
                           </a>
                         </div>
@@ -492,7 +492,7 @@
                               API دسترسی کامل
                             </li>
                           </ul>
-                          <a href="{{ route('register') }}" class="btn  btn_md_primary rounded-8 c-white bg-red">
+                          <a href="tel:02128425223" class="btn  btn_md_primary rounded-8 c-white bg-red">
                             ثبت نام
                           </a>
                         </div>
@@ -548,7 +548,7 @@
                               پشتیبانی چت
                             </li>
                           </ul>
-                          <a href="{{ route('register') }}" class="btn  btn_md_primary rounded-8 c-white bg-blue">
+                          <a href="{{ route('register', '60b4b5c2dd5add8ba') }}" class="btn  btn_md_primary rounded-8 c-white bg-blue">
                             ثبت نام
                           </a>
                         </div>
@@ -608,7 +608,7 @@
                               پشتیبانی آنلاین
                             </li>
                           </ul>
-                          <a href="{{ route('register') }}" class="btn  btn_md_primary rounded-8 c-white bg-yollow">
+                          <a href="{{ route('register', '60b4b69a297254508') }}" class="btn  btn_md_primary rounded-8 c-white bg-yollow">
                             ثبت نام
                           </a>
                         </div>
@@ -667,7 +667,7 @@
                               API دسترسی کامل
                             </li>
                           </ul>
-                          <a href="{{ route('register') }}" class="btn  btn_md_primary rounded-8 c-white bg-red">
+                          <a href="{{ route('register', 111) }}" class="btn  btn_md_primary rounded-8 c-white bg-red">
                             ثبت نام
                           </a>
                         </div>
