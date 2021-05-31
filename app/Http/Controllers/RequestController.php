@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Helper\Stri;
+use App\Enums\Packages;
 use App\Models\{
 	Account,PhoneNumbers,EmailAddress,EntityEmailAddress, EntityPhoneNumber
 };
@@ -62,8 +63,10 @@ class RequestController extends Controller
 			'primary'=> 1,
 		]);
 
-		return view('validate');
+		if ($request->get('requestId') == Packages::FREE) {
+			return redirect('/')->with('status', 'Profile updated');
+		}
 
-
+		return redirect('/')->with('status', 'Profile updated');
 	}
 }

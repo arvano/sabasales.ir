@@ -43,7 +43,12 @@
         <a href="#">اینجا کلیک کنید</a></p>
     </x-tosts>
 
-    {{-- <x-loader/> --}}
+
+    <x-loader/>
+
+    @isset($status)
+      <x-modal message="$status"/>
+    @endisset
 
   </div>
 

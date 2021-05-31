@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('index');
-});
+})->name('index');
 
 
 Route::get('/request/{requestId}', [App\Http\Controllers\RequestController::class, 'create'])->name('register');
