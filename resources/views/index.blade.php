@@ -239,11 +239,11 @@
                     <div class="col-md-12">
                       <div class="item_slide panel">
                         <div class="block_img">
-                          <img src="/assets/img/lead-detail.png" alt="" />
+                          <img src="/assets/img/1.jpg" alt="" />
                           <div class="item__name">
                             <div class="txt">
-                              <h4 class="txt1">Budget</h4>
-                              <h4 class="txt2">Overview</h4>
+                              <h4 class="txt1">داشبورد</h4>
+                              <h4 class="txt2">Dashboard</h4>
                             </div>
                           </div>
                         </div>
@@ -252,11 +252,11 @@
                     <div class="col-md-12">
                       <div class="item_slide panel">
                         <div class="block_img">
-                          <img src="/assets/img/lead-detail.png" alt="" />
+                          <img src="/assets/img/8.jpg" alt="" />
                           <div class="item__name">
                             <div class="txt">
-                              <h4 class="txt1">Budget</h4>
-                              <h4 class="txt2">Overview</h4>
+                              <h4 class="txt1">گردش کار</h4>
+                              <h4 class="txt2">WrokFlow</h4>
                             </div>
                           </div>
                         </div>
@@ -265,11 +265,11 @@
                     <div class="col-md-12">
                       <div class="item_slide panel">
                         <div class="block_img">
-                          <img src="/assets/img/lead-detail.png" alt="" />
+                          <img src="/assets/img/2.jpg" alt="" />
                           <div class="item__name">
                             <div class="txt">
-                              <h4 class="txt1">Budget</h4>
-                              <h4 class="txt2">Overview</h4>
+                              <h4 class="txt1">حساب‌ها</h4>
+                              <h4 class="txt2">Account</h4>
                             </div>
                           </div>
                         </div>
@@ -278,11 +278,11 @@
                     <div class="col-md-12">
                       <div class="item_slide panel">
                         <div class="block_img">
-                          <img src="/assets/img/lead-detail.png" alt="" />
+                          <img src="/assets/img/3.jpg" alt="" />
                           <div class="item__name">
                             <div class="txt">
-                              <h4 class="txt1">Budget</h4>
-                              <h4 class="txt2">Overview</h4>
+                              <h4 class="txt1">فرصت ها</h4>
+                              <h4 class="txt2">Opportunity</h4>
                             </div>
                           </div>
                         </div>
@@ -301,293 +301,377 @@
         <div id="triggerTo"></div>
         <!-- End. -->
 
-        <section class="pricing_section options_pricing pricing_demo2 padding-t-12 bg-white position-relative z-index-3"
-          id="Pricing">
+
+
+
+      <section class="pricing_section pricing_demo2 pricing_demo3 margin-b-6">
           <div class="container">
-            <div class="blocks_pricing">
-              <div class="row">
-                <div class="col-md-8 col-lg-3 my-auto mr-auto">
-                  <div class="title_sections">
-                    <div class="before_title">
-                      <span>Pricing</span>
-                      <span>Plan</span>
-                    </div>
-                    <h2>Simple pricing for everyone</h2>
-                  </div>
-                  <!-- tabs -->
-                  <div class="tabs_price mb-4 mb-lg-0">
-                    <ul class="nav nav-pills" id="pills-tab" role="tablist">
-                      <li class="nav-item" role="presentation">
-                        <a class="nav-link active" id="pills-month-tab" data-toggle="pill" href="#pills-month"
-                          role="tab" aria-controls="pills-month" aria-selected="true">Monthly</a>
-                      </li>
-                      <li class="nav-item" role="presentation">
-                        <a class="nav-link" id="pills-annual-tab" data-toggle="pill" href="#pills-annual" role="tab"
-                          aria-controls="pills-annual" aria-selected="false">Annual</a>
-                      </li>
-                    </ul>
-                  </div>
+            <div class="row justify-content-md-center">
+              <div class="col-md-8 col-lg-6 text-center">
+                <div class="title_sections_inner margin-b-5">
+                  <h2>اشتراک صبا</h2>
+                  <!-- Start nav -->
+                  <ul class="nav nav-pills" id="pills-tab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                      <a class="nav-link" id="pills-annual-tab" data-toggle="pill" href="#pills-annual" role="tab"
+                        aria-controls="pills-annual" aria-selected="false">سالیانه</a>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                      <a class="nav-link active" id="pills-month-tab" data-toggle="pill" href="#pills-month" role="tab"
+                        aria-controls="pills-month" aria-selected="true">ماهانه</a>
+                    </li>
+                  </ul>
+                  <!-- End. nav -->
                 </div>
-                <!-- content_tabs -->
-                <div class="tab-content" id="pills-tabContent">
-                  <div class="tab-pane fade show active" id="pills-month" role="tabpanel"
-                    aria-labelledby="pills-month-tab">
-                    <div class="col-12">
-                      <div class="row no-gutters">
-                        <div class="col-md-4">
-                          <div class="item__price">
-                            <h4 class="name_p">Personal</h4>
-                            <div class="number">
-                              <span class="n_price">0</span>
-                              <span class="coins">$</span>
-                              <span class="d-block per">Per Month</span>
-                            </div>
-                            <a href="#" class="btn rounded-8 btn_md_primary btn_tryit">
-                              Get Started Free</a>
+              </div>
+            </div>
+
+            <div class="tab-content" id="pills-tabContent">
+              <div class="tab-pane fade" id="pills-annual" role="tabpanel" aria-labelledby="pills-annual-tab">
+                <div class="blocks_pricing">
+                  <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                      <div class="item__price border-0">
+                        <div class="logo_price">
+                          <div class="icon_gif">
+                            <img class="gif" src="../../assets/img/gif/upside_down_face.gif" />
                           </div>
                         </div>
-                        <div class="col-md-4">
-                          <div class="item__price is_best">
-                            <h4 class="name_p">Professional</h4>
-                            <div class="number">
-                              <span class="n_price">49</span>
-                              <span class="coins">$</span>
-                              <span class="d-block per">Per Month</span>
-                            </div>
-                            <a href="#" class="btn rounded-8 btn_md_primary btn_tryit">
-                              Start 14-Days Trial</a>
-                          </div>
+                        <h4 class="name_p">رایگان</h4>
+                        <p class="info_price">
+                          برای افرادی که به دنبال یک راه حل ساده CRM هستند
+                        </p>
+                        <div class="number">
+                          <span class="n_price">0</span>
+                          <span class="duration">/ ماهانه</span>
                         </div>
-                        <div class="col-md-4">
-                          <div class="item__price">
-                            <h4 class="name_p">Enterprise</h4>
-                            <div class="number">
-                              <span class="n_price">129</span>
-                              <span class="coins">$</span>
-                              <span class="d-block per">Per Month</span>
-                            </div>
-                            <a href="#" class="btn rounded-8 btn_md_primary btn_tryit">Contact With Us</a>
-                          </div>
+                        <!-- icon Semicircle -->
+                        <svg width="22" height="19" viewBox="0 0 22 19">
+                          <g id="icon_semicircle" transform="translate(-325.349 -2843.002)">
+                            <path class="item_fill" id="Subtraction_6" data-name="Subtraction 6"
+                              d="M7.485,7A7.477,7.477,0,0,1,2.349,4.966,7.472,7.472,0,0,1,0,0H14.967A7.514,7.514,0,0,1,7.485,7Z"
+                              transform="matrix(0.966, 0.259, -0.259, 0.966, 327.161, 2851.367)" fill="#165df5" />
+                            <path class="item_opacity" id="Subtraction_7" data-name="Subtraction 7"
+                              d="M7.485,0A7.5,7.5,0,0,0,0,7H14.967A7.514,7.514,0,0,0,7.485,0Z"
+                              transform="translate(332.383 2843.002)" fill="#165df5" opacity="0.1" />
+                          </g>
+                        </svg>
+                        <div class="feature_price">
+                          <ul class="list-group">
+                            <li class="list-group-item">
+                              ۵ کاربر
+                            </li>
+                            <li class="list-group-item">
+                              ماژول فروش
+                            </li>
+                            <li class="list-group-item">
+                              ماژول فروش
+                            </li>
+                            <li class="list-group-item">
+                              مدیریت ایمیل
+                            </li>
+                            <li class="list-group-item">
+                              پشتیبانی چت
+                            </li>
+                          </ul>
+                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-blue">
+                            Select Plan
+                          </button>
                         </div>
                       </div>
                     </div>
-                  </div>
-                  <div class="tab-pane fade" id="pills-annual" role="tabpanel" aria-labelledby="pills-annual-tab">
-                    <div class="col-md-12">
-                      <div class="row no-gutters">
-                        <div class="col-md-4">
-                          <div class="item__price">
-                            <h4 class="name_p">Personal</h4>
-                            <div class="number">
-                              <span class="n_price">25</span>
-                              <span class="coins">$</span>
-                              <span class="d-block per">Per annual</span>
-                            </div>
-                            <a href="#" class="btn rounded-8 btn_md_primary btn_tryit">
-                              Get Started Free</a>
+                    <div class="col-md-6 col-lg-4">
+                      <div class="item__price popular">
+                        <img class="icon_popular" src="../../assets/img/stars.svg" />
+                        <div class="logo_price">
+                          <div class="icon_gif">
+                            <img class="gif" src="../../assets/img/gif/winking_face.gif" />
                           </div>
                         </div>
-                        <div class="col-md-4">
-                          <div class="item__price is_best">
-                            <h4 class="name_p">Professional</h4>
-                            <div class="number">
-                              <span class="n_price">39</span>
-                              <span class="coins">$</span>
-                              <span class="d-block per">Per annual</span>
-                            </div>
-                            <a href="#" class="btn rounded-8 btn_md_primary btn_tryit">
-                              Start 14-Days Trial</a>
+                        <h4 class="name_p">پیشرفته</h4>
+                        <p class="info_price">
+                          برای افرادی که به دنبال یک راه حل ساده CRM هستند
+                        </p>
+                        <div class="number">
+                          <span class="n_price">۲۱۶ هزار</span>
+                          <span class="duration">/ تومان</span>
+                        </div>
+                        <!-- icon Semicircle -->
+                        <svg width="22" height="19" viewBox="0 0 22 19">
+                          <g id="icon_semicircle" transform="translate(-325.349 -2843.002)">
+                            <path class="item_fill" id="Subtraction_6" data-name="Subtraction 6"
+                              d="M7.485,7A7.477,7.477,0,0,1,2.349,4.966,7.472,7.472,0,0,1,0,0H14.967A7.514,7.514,0,0,1,7.485,7Z"
+                              transform="matrix(0.966, 0.259, -0.259, 0.966, 327.161, 2851.367)" fill="#F28E1C" />
+                            <path class="item_opacity" id="Subtraction_7" data-name="Subtraction 7"
+                              d="M7.485,0A7.5,7.5,0,0,0,0,7H14.967A7.514,7.514,0,0,0,7.485,0Z"
+                              transform="translate(332.383 2843.002)" fill="#F28E1C" opacity="0.1" />
+                          </g>
+                        </svg>
+                        <div class="feature_price">
+                          <ul class="list-group">
+                            <li class="list-group-item">
+                              ۲۰ کاربر
+                            </li>
+                            <li class="list-group-item">
+                              ماژول فروش پیشرفته
+                            </li>
+                            <li class="list-group-item">
+                              سیستم تیکت
+                            </li>
+                            <li class="list-group-item">
+                              ماژول مارکتینگ پیشرفته
+                            </li>
+                            <li class="list-group-item">
+                              ماژول اسناد
+                            </li>
+                            <li class="list-group-item">
+                              مدیریت ایمیل
+                            </li>
+                            <li class="list-group-item">
+                              ماژول گزارشات
+                            </li>
+                            <li class="list-group-item">
+                              پشتیبانی آنلاین
+                            </li>
+                          </ul>
+                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-yollow">
+                            Select Plan
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                      <div class="item__price border-0">
+                        <div class="logo_price">
+                          <div class="icon_gif">
+                            <img class="gif" src="../../assets/img/gif/hushed_face.gif" />
                           </div>
                         </div>
-                        <div class="col-md-4">
-                          <div class="item__price">
-                            <h4 class="name_p">Enterprise</h4>
-                            <div class="number">
-                              <span class="n_price">95</span>
-                              <span class="coins">$</span>
-                              <span class="d-block per">Per annual</span>
-                            </div>
-                            <a href="#" class="btn rounded-8 btn_md_primary btn_tryit">Contact With Us</a>
-                          </div>
+                        <h4 class="name_p">سازمانی</h4>
+                        <p class="info_price">
+                          برای افرادی که به دنبال یک راه حل ساده CRM هستند
+                        </p>
+                        <div class="number">
+                          <span class="n_price">نامشخص</span>
+                        </div>
+                        <!-- icon Semicircle -->
+                        <svg width="22" height="19" viewBox="0 0 22 19">
+                          <g id="icon_semicircle" transform="translate(-325.349 -2843.002)">
+                            <path class="item_fill" id="Subtraction_6" data-name="Subtraction 6"
+                              d="M7.485,7A7.477,7.477,0,0,1,2.349,4.966,7.472,7.472,0,0,1,0,0H14.967A7.514,7.514,0,0,1,7.485,7Z"
+                              transform="matrix(0.966, 0.259, -0.259, 0.966, 327.161, 2851.367)" fill="#F93542" />
+                            <path class="item_opacity" id="Subtraction_7" data-name="Subtraction 7"
+                              d="M7.485,0A7.5,7.5,0,0,0,0,7H14.967A7.514,7.514,0,0,0,7.485,0Z"
+                              transform="translate(332.383 2843.002)" fill="#F93542" opacity="0.1" />
+                          </g>
+                        </svg>
+                        <div class="feature_price">
+                          <ul class="list-group">
+                            <li class="list-group-item">
+                              تعداد کاربران نامحدود
+                            </li>
+                            <li class="list-group-item">
+                              تمام امکانات پیشرفته
+                            </li>
+                            <li class="list-group-item">
+                              ماژول گزارشات
+                            </li>
+                            <li class="list-group-item">
+                              گردش کار
+                            </li>
+                            <li class="list-group-item">
+                              پورتال
+                            </li>
+                            <li class="list-group-item">
+                              افزونه ساز
+                            </li>
+                            <li class="list-group-item">
+                              مدل BPI
+                            </li>
+                            <li class="list-group-item">
+                              API دسترسی کامل
+                            </li>
+                          </ul>
+                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-red">
+                            Select Plan
+                          </button>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <!-- pricing table  -->
-              <div class="table_pricing">
-                <div class="row">
-                  <div class="col-12">
-                    <div class="table-responsive">
-                      <label>User Generted content</label>
-                      <table class="table table-borderless">
-                        <tbody>
-                          <tr>
-                            <td>Basic CRM features</td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                            <td></td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                          </tr>
-
-                          <tr>
-                            <td>
-                              Unlimited Personal Pipelines
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                          </tr>
-
-                          <tr>
-                            <td>Email Power Tools</td>
-                            <td></td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                          </tr>
-
-                          <tr>
-                            <td>Advanced Reports</td>
-                            <td></td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                          </tr>
-
-                          <tr>
-                            <td>Basic API Access</td>
-                            <td></td>
-                            <td></td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-                      <label>Services</label>
-                      <table class="table table-borderless">
-                        <tbody>
-                          <tr>
-                            <td>Task List</td>
-                            <td></td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                          </tr>
-
-                          <tr>
-                            <td>
-                              Custom Views
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                          </tr>
-
-                          <tr>
-                            <td>Custom Permissions</td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                          </tr>
-
-                          <tr>
-                            <td>
-                              900+ Integrations (via Zapier)
-                            </td>
-                            <td></td>
-                            <td></td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                          </tr>
-
-                          <tr>
-                            <td>Full API Access</td>
-                            <td></td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                            <td>
-                              <div class="check_ico">
-                                <i class="tio checkmark_circle_outlined"></i>
-                              </div>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
+              <div class="tab-pane fade show active" id="pills-month" role="tabpanel" aria-labelledby="pills-month-tab">
+                <div class="blocks_pricing">
+                  <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                      <div class="item__price border-0">
+                        <div class="logo_price">
+                          <div class="icon_gif">
+                            <img class="gif" src="../../assets/img/gif/upside_down_face.gif" />
+                          </div>
+                        </div>
+                        <h4 class="name_p">رایگان</h4>
+                        <p class="info_price">
+                          برای افرادی که به دنبال یک راه حل ساده CRM هستند
+                        </p>
+                        <div class="number">
+                          <span class="n_price">۰</span>
+                          <span class="duration">/ ماهانه</span>
+                        </div>
+                        <!-- icon Semicircle -->
+                        <svg width="22" height="19" viewBox="0 0 22 19">
+                          <g id="icon_semicircle" transform="translate(-325.349 -2843.002)">
+                            <path class="item_fill" id="Subtraction_6" data-name="Subtraction 6"
+                              d="M7.485,7A7.477,7.477,0,0,1,2.349,4.966,7.472,7.472,0,0,1,0,0H14.967A7.514,7.514,0,0,1,7.485,7Z"
+                              transform="matrix(0.966, 0.259, -0.259, 0.966, 327.161, 2851.367)" fill="#165df5" />
+                            <path class="item_opacity" id="Subtraction_7" data-name="Subtraction 7"
+                              d="M7.485,0A7.5,7.5,0,0,0,0,7H14.967A7.514,7.514,0,0,0,7.485,0Z"
+                              transform="translate(332.383 2843.002)" fill="#165df5" opacity="0.1" />
+                          </g>
+                        </svg>
+                        <div class="feature_price">
+                          <ul class="list-group">
+                            <li class="list-group-item">
+                              ۵ کاربر
+                            </li>
+                            <li class="list-group-item">
+                              ماژول فروش
+                            </li>
+                            <li class="list-group-item">
+                              ماژول فروش
+                            </li>
+                            <li class="list-group-item">
+                              مدیریت ایمیل
+                            </li>
+                            <li class="list-group-item">
+                              پشتیبانی چت
+                            </li>
+                          </ul>
+                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-blue">
+                            Select Plan
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                      <div class="item__price popular">
+                        <img class="icon_popular" src="../../assets/img/stars.svg" />
+                        <div class="logo_price">
+                          <div class="icon_gif">
+                            <img class="gif" src="../../assets/img/gif/winking_face.gif" />
+                          </div>
+                        </div>
+                        <h4 class="name_p">پیشرفته</h4>
+                        <p class="info_price">
+                          برای افرادی که به دنبال یک راه حل ساده CRM هستند
+                        </p>
+                        <div class="number">
+                          <span class="n_price">۲۱۶ هزار</span>
+                          <span class="duration">/ تومان</span>
+                        </div>
+                        <!-- icon Semicircle -->
+                        <svg width="22" height="19" viewBox="0 0 22 19">
+                          <g id="icon_semicircle" transform="translate(-325.349 -2843.002)">
+                            <path class="item_fill" id="Subtraction_6" data-name="Subtraction 6"
+                              d="M7.485,7A7.477,7.477,0,0,1,2.349,4.966,7.472,7.472,0,0,1,0,0H14.967A7.514,7.514,0,0,1,7.485,7Z"
+                              transform="matrix(0.966, 0.259, -0.259, 0.966, 327.161, 2851.367)" fill="#F28E1C" />
+                            <path class="item_opacity" id="Subtraction_7" data-name="Subtraction 7"
+                              d="M7.485,0A7.5,7.5,0,0,0,0,7H14.967A7.514,7.514,0,0,0,7.485,0Z"
+                              transform="translate(332.383 2843.002)" fill="#F28E1C" opacity="0.1" />
+                          </g>
+                        </svg>
+                        <div class="feature_price">
+                          <ul class="list-group">
+                            <li class="list-group-item">
+                              ۲۰ کاربر
+                            </li>
+                            <li class="list-group-item">
+                              ماژول فروش پیشرفته
+                            </li>
+                            <li class="list-group-item">
+                              سیستم تیکت
+                            </li>
+                            <li class="list-group-item">
+                              ماژول مارکتینگ پیشرفته
+                            </li>
+                            <li class="list-group-item">
+                              ماژول اسناد
+                            </li>
+                            <li class="list-group-item">
+                              مدیریت ایمیل
+                            </li>
+                            <li class="list-group-item">
+                              ماژول گزارشات
+                            </li>
+                            <li class="list-group-item">
+                              پشتیبانی آنلاین
+                            </li>
+                          </ul>
+                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-yollow">
+                            Select Plan
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                      <div class="item__price border-0">
+                        <div class="logo_price">
+                          <div class="icon_gif">
+                            <img class="gif" src="../../assets/img/gif/hushed_face.gif" />
+                          </div>
+                        </div>
+                        <h4 class="name_p">سازمانی</h4>
+                        <p class="info_price">
+                          برای افرادی که به دنبال یک راه حل ساده CRM هستند
+                        </p>
+                        <div class="number">
+                          <span class="n_price">نامشخص</span>
+                          <span class="duration"></span>
+                        </div>
+                        <!-- icon Semicircle -->
+                        <svg width="22" height="19" viewBox="0 0 22 19">
+                          <g id="icon_semicircle" transform="translate(-325.349 -2843.002)">
+                            <path class="item_fill" id="Subtraction_6" data-name="Subtraction 6"
+                              d="M7.485,7A7.477,7.477,0,0,1,2.349,4.966,7.472,7.472,0,0,1,0,0H14.967A7.514,7.514,0,0,1,7.485,7Z"
+                              transform="matrix(0.966, 0.259, -0.259, 0.966, 327.161, 2851.367)" fill="#F93542" />
+                            <path class="item_opacity" id="Subtraction_7" data-name="Subtraction 7"
+                              d="M7.485,0A7.5,7.5,0,0,0,0,7H14.967A7.514,7.514,0,0,0,7.485,0Z"
+                              transform="translate(332.383 2843.002)" fill="#F93542" opacity="0.1" />
+                          </g>
+                        </svg>
+                        <div class="feature_price">
+                          <ul class="list-group">
+                            <li class="list-group-item">
+                              تعداد کاربران نامحدود
+                            </li>
+                            <li class="list-group-item">
+                              تمام امکانات پیشرفته
+                            </li>
+                            <li class="list-group-item">
+                              ماژول گزارشات
+                            </li>
+                            <li class="list-group-item">
+                              گردش کار
+                            </li>
+                            <li class="list-group-item">
+                              پورتال
+                            </li>
+                            <li class="list-group-item">
+                              افزونه ساز
+                            </li>
+                            <li class="list-group-item">
+                              مدل BPI
+                            </li>
+                            <li class="list-group-item">
+                              API دسترسی کامل
+                            </li>
+                          </ul>
+                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-red">
+                            Select Plan
+                          </button>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -595,7 +679,6 @@
             </div>
           </div>
         </section>
-
 
 
 

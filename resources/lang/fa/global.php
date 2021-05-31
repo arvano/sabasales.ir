@@ -15,7 +15,7 @@ return [
 	// other
 	'MORE' => 'بیشتر',
 	'SALES' => 'فروش',
-	'Our Featured Service that We Provide' => 'خدمات ویژه ای که ارائه می دهیم',
+	'Our Featured Service that We Provide' => 'با صبا کسب و کارتان را مدیریت کنید.',
 	'Step 1' => 'قدم اول',
 	'Step 2' => 'قدم دوم',
 	'Step 3' => 'قدم سوم',
@@ -27,7 +27,9 @@ return [
 	'get more monay detail' => 'معاملات خود را برنامه ریزی کرده و به سرانجام برسانید',
 	'try it free' => 'امتحانش مجانیه',
 	'THE Perfect WAY TO SELL' => 'نرم افزار مدیریت ارتباط با مشتری صبا',
-	'The SabaSales that makes your sales easy' => 'صبا سلز که فروش شما را آسان می کند ، بنابراین تنها کاری که باید بکنید فروش است. ما در کنار شما هستیم و به فروش شما کمک می کنیم تا درآمد کسب کنید.',
+	'The SabaSales that makes your sales easy' => 'صبا به شما این امکان را میدهد تا تمام اطلاعات مشتریان خود را در یک مکان جمع آوری کرده و معاملات خود را پیگری کنید.
+
+',
 	'Our Services' => 'سرویس صبا سلز',
 	'Save time make Your Own on design and development' => 'صبای خود را طراحی کنید',
 	'Set administration' => 'برای نمایش پیش نمایش خود ، مدیریتی را تنظیم کنید که در طراحی و توسعه به روز شود.',
@@ -52,7 +54,8 @@ return [
 ',
 	'Insights and reports' => 'بینش ها و گزارش ها',
 	'comminsoom' => 'به زودی قرار داده می شود',
-	'learn book' => 'کاتالوک آموزشی'
+	'learn book' => 'کاتالوک آموزشی',
+	'Get Started Free' => 'ثبت نام'
 
 ];
 

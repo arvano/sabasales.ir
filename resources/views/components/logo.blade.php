@@ -1,1 +1,1 @@
-<img class="logo" src="{{ asset('assets/img/logo.svg') }}" alt="{{ __('global.brand') }}" />
+<img class="logo" src="{{ asset('logo_svg.svg') }}" alt="{{ __('global.brand') }}" />
