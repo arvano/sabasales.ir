@@ -9663,7 +9663,7 @@ software_web
   content: "";
   position: absolute;
   left: 12%;
-  background-image: url("../img/ill_faq.svg");
+  _background-image: url("../img/ill_faq.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width: 408px;

@@ -2,41 +2,24 @@
       <div class="container">
         <div class="row justify-content-md-center text-center">
           <div class="col-md-8">
-            <a class="logo c-dark" href="sass-modern.html">
-              <img src="../../assets/img/logo.svg" alt="">
+            <a class="logo c-dark" href="/">
+              <img src="/logo_svg.svg" alt="">
             </a>
             <div class="social--media">
-              <a href="#" class="btn so-link">
-                <i class="tio appstore"></i>
-              </a>
-              <a href="#" class="btn so-link">
-                <i class="tio github"></i>
-              </a>
-              <a href="#" class="btn so-link">
-                <i class="tio instagram"></i>
-              </a>
-              <a href="#" class="btn so-link">
-                <i class="tio google"></i>
-              </a>
-              <a href="#" class="btn so-link">
-                <i class="tio twitter"></i>
-              </a>
-              <a href="#" class="btn so-link">
-                <i class="tio facebook_square"></i>
-              </a>
+
             </div>
             <div class="other--links">
-              <a href="#">White paper</a>
-              <a href="#">Support</a>
-              <a href="#">API</a>
-              <a href="#">Privacy Policy</a>
-              <a href="#">Cookie Policy</a>
+              <a href="#">گزارش</a>
+              <a href="#">پشتیبانی</a>
+              <a href="#">سرویس ای پی ای</a>
+              <a href="#">سیاست حفظ حریم خصوصی</a>
+              <a href="#">سیاست کوکی</a>
             </div>
             <div class="opyright">
               <p>
                 © 2020
-                <a href="https://themeforest.net/user/orinostu" target="_blank">OrinoStu.</a>
-                All Right Reseved
+                تمامی حقوق متعلق به
+                <a href="/" target="_blank">آروانو</a> می باشد.
               </p>
             </div>
           </div>

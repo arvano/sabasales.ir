@@ -304,7 +304,7 @@
 
 
 
-      <section class="pricing_section pricing_demo2 pricing_demo3 margin-b-6">
+      <section class="pricing_section pricing_demo2 pricing_demo3 margin-b-6 mt-5">
           <div class="container">
             <div class="row justify-content-md-center">
               <div class="col-md-8 col-lg-6 text-center">
@@ -374,9 +374,9 @@
                               پشتیبانی چت
                             </li>
                           </ul>
-                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-blue">
-                            Select Plan
-                          </button>
+                          <a href="{{ route('register') }}" type="button" class="btn btn_md_primary rounded-8 c-white bg-blue">
+                            ثبت نام
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -434,9 +434,9 @@
                               پشتیبانی آنلاین
                             </li>
                           </ul>
-                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-yollow">
-                            Select Plan
-                          </button>
+                          <a href="{{ route('register') }}" class="btn  btn_md_primary rounded-8 c-white bg-yollow">
+                            ثبت نام
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -492,9 +492,9 @@
                               API دسترسی کامل
                             </li>
                           </ul>
-                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-red">
-                            Select Plan
-                          </button>
+                          <a href="{{ route('register') }}" class="btn  btn_md_primary rounded-8 c-white bg-red">
+                            ثبت نام
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -548,9 +548,9 @@
                               پشتیبانی چت
                             </li>
                           </ul>
-                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-blue">
-                            Select Plan
-                          </button>
+                          <a href="{{ route('register') }}" class="btn  btn_md_primary rounded-8 c-white bg-blue">
+                            ثبت نام
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -608,9 +608,9 @@
                               پشتیبانی آنلاین
                             </li>
                           </ul>
-                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-yollow">
-                            Select Plan
-                          </button>
+                          <a href="{{ route('register') }}" class="btn  btn_md_primary rounded-8 c-white bg-yollow">
+                            ثبت نام
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -667,9 +667,9 @@
                               API دسترسی کامل
                             </li>
                           </ul>
-                          <button type="button" class="btn effect-letter btn_md_primary rounded-8 c-white bg-red">
-                            Select Plan
-                          </button>
+                          <a href="{{ route('register') }}" class="btn  btn_md_primary rounded-8 c-white bg-red">
+                            ثبت نام
+                          </a>
                         </div>
                       </div>
                     </div>
@@ -688,10 +688,9 @@
               <div class="col-md-8 col-lg-6 text-center">
                 <div class="title_sections">
                   <div class="before_title">
-                    <span>Frequently Asked</span>
-                    <span>Questions</span>
+                    <span>سوالات متداول</span>
                   </div>
-                  <h2>Want to ask something <br />from us?</h2>
+                  <h3>برخی سوالات که شاید شما هم داشته باشید.</h3>
                 </div>
               </div>
             </div>
@@ -705,10 +704,10 @@
                         <h3 class="mb-0">
                           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne"
                             aria-expanded="true" aria-controls="collapseOne">
-                            How do I make a yearly payment?
+                      چگونه می توانم هزینه اشتراک را پرداخت کنم؟
+
                             <p class="simple_desc">
-                              Duis Aute Irure Dolor In Reprehenderit In
-                              Voluptate Velit Esse Cillum.
+                              اشتراک ها به صورت ماهیانه و سالیانه می باشید و بر اساس مدت دوره ..
                             </p>
                           </button>
                         </h3>
@@ -718,16 +717,7 @@
                         data-parent="#accordionExample">
                         <div class="card-body">
                           <p>
-                            Serenity Is Multi-Faceted Blockchain Based
-                            Ecosystem, Energy Retailer For The People,
-                            Focusing On The Promotion Of Sustainable Living,
-                            Renewable Energy Production And Smart Energy Grid
-                            Utility Services.
-                          </p>
-                          <p>
-                            We Aim To Become The Incubator For New Renewable
-                            Energy-Related Projects By Using The Power Of
-                            Crowd.
+                            اشتراک ها به صورت ماهیانه و سالیانه می باشید و بر اساس مدت دوره هزینه نهایی مشخص می شود. شما میتوانید با استفاهد از درگاه بانکی موجود در سامانه اقدام به پرداخت کنید و یا از طریق کارت به کارت اقدام کنید که در این صورت می بایست کد رهگیری واطلاعت تاریخ را برای کارشتاس فروش ارسال کنید.
                           </p>
                         </div>
                       </div>
@@ -737,10 +727,9 @@
                         <h3 class="mb-0">
                           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo"
                             aria-expanded="true" aria-controls="collapseTwo">
-                            Can I have team members on different plans?
+                            آیا می توانم اعضای تیم را در ثبت نام کنم؟
                             <p class="simple_desc">
-                              Duis Aute Irure Dolor In Reprehenderit In
-                              Voluptate Velit Esse Cillum.
+                              برای اینکار کافی است یک تیم و نقش تعریف کنید ...
                             </p>
                           </button>
                         </h3>
@@ -750,16 +739,10 @@
                         data-parent="#accordionExample">
                         <div class="card-body">
                           <p>
-                            Serenity Is Multi-Faceted Blockchain Based
-                            Ecosystem, Energy Retailer For The People,
-                            Focusing On The Promotion Of Sustainable Living,
-                            Renewable Energy Production And Smart Energy Grid
-                            Utility Services.
+                                                          برای اینکار کافی است یک تیم و نقش تعریف کنید و سپس یک کاربر جدید بسازید و دسترسی کاربر را از طریق نقش و تیم مربوطه مشخص کنید
                           </p>
                           <p>
-                            We Aim To Become The Incubator For New Renewable
-                            Energy-Related Projects By Using The Power Of
-                            Crowd.
+                            اطلاعات کاربری برای کاربر ایمیل می شود و کاربر در اولین ورود ملزم به بروزرسانی رمز عبور خود می باشد.
                           </p>
                         </div>
                       </div>
@@ -769,10 +752,9 @@
                         <h3 class="mb-0">
                           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseThree"
                             aria-expanded="true" aria-controls="collapseThree">
-                            How this technology works?
+                            صبا چگونه کار می کند؟
                             <p class="simple_desc">
-                              Duis Aute Irure Dolor In Reprehenderit In
-                              Voluptate Velit Esse Cillum.
+                              نرم افزار مدیریت ارتباط با مشتری صبا به صورت پردازش ابری ...
                             </p>
                           </button>
                         </h3>
@@ -782,48 +764,7 @@
                         data-parent="#accordionExample">
                         <div class="card-body">
                           <p>
-                            Serenity Is Multi-Faceted Blockchain Based
-                            Ecosystem, Energy Retailer For The People,
-                            Focusing On The Promotion Of Sustainable Living,
-                            Renewable Energy Production And Smart Energy Grid
-                            Utility Services.
-                          </p>
-                          <p>
-                            We Aim To Become The Incubator For New Renewable
-                            Energy-Related Projects By Using The Power Of
-                            Crowd.
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="card">
-                      <div class="card-header" id="headingFour">
-                        <h3 class="mb-0">
-                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFour"
-                            aria-expanded="true" aria-controls="collapseFour">
-                            What is the comunity benefit?
-                            <p class="simple_desc">
-                              Duis Aute Irure Dolor In Reprehenderit In
-                              Voluptate Velit Esse Cillum.
-                            </p>
-                          </button>
-                        </h3>
-                      </div>
-
-                      <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
-                        data-parent="#accordionExample">
-                        <div class="card-body">
-                          <p>
-                            Serenity Is Multi-Faceted Blockchain Based
-                            Ecosystem, Energy Retailer For The People,
-                            Focusing On The Promotion Of Sustainable Living,
-                            Renewable Energy Production And Smart Energy Grid
-                            Utility Services.
-                          </p>
-                          <p>
-                            We Aim To Become The Incubator For New Renewable
-                            Energy-Related Projects By Using The Power Of
-                            Crowd.
+                            نرم افزار مدیریت ارتباط با مشتری صبا به صورت پردازش ابری کار می کند به اینصورت که شما نیاری به نصب و بروزرسانی نرم افزار خود ندارید و در هر سیستم عاملی می توانید کار کنید. شما محدودیت استفاده در سیستم را ندارید.
                           </p>
                         </div>
                       </div>
@@ -841,15 +782,14 @@
             <div class="row justify-content-md-center">
               <div class="col-md-6 text-center">
                 <div class="title_sections mb-0">
-                  <h2>Still need help?</h2>
+                  <h2>به راهنمایی بیشتری نیاز داری؟</h2>
                   <p>
-                    Click on the blue round button at the bottom right corner
-                    of this page. You can also email our support team at
-                    <a class="c-blue" href="mailto:support@example.com">support@example.com</a>.
+                  برای کسب اطلاعت بیشتر می توانید با ما تماس بیگیرید یا از طریق ایمیل زیر درخواست خود را ارسال کنید تا تیم ما در اولین فرصت با شما تماس بگیر.
+                    <a class="c-blue" href="mailto:info@sabasales.com">info@sabasales.com</a>.
                   </p>
-                  <button type="button" class="btn rounded-pill btn_md_primary c-white scale ripple bg-blue">
-                    Contact With Us
-                  </button>
+                  <a href="tel:02128425223" class="btn rounded-pill btn_md_primary c-white scale ripple bg-blue">
+                    تماس با ما
+                  </a>
                 </div>
               </div>
             </div>
