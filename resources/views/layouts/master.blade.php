@@ -4,6 +4,18 @@
 <head>
   @include('layouts.meta')
   @include('layouts.headerCss')
+
+  @if(!env('APP_DEBUG'))
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ env('MEASUREMENT_ID') }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', {{ env('MEASUREMENT_ID') }});
+  </script>
+  @endif
 </head>
 
 <body class="bg-pricing_list">

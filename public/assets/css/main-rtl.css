@@ -484,8 +484,8 @@ img {
   position: relative;
 }
 .loading_overlay .loader_logo .logo {
-  width: 40px;
-  height: 40px;
+  width: 80px;
+  height: 80px;
   -webkit-animation: text-focus-in 1.5s cubic-bezier(0.55, 0.085, 0.68, 0.53) both !important;
   -moz-animation: text-focus-in 1.5s cubic-bezier(0.55, 0.085, 0.68, 0.53) both !important;
   -o-animation: text-focus-in 1.5s cubic-bezier(0.55, 0.085, 0.68, 0.53) both !important;
