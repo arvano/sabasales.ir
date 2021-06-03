@@ -11,8 +11,13 @@ use App\Models\{
 
 class RequestController extends Controller
 {
-	public function create($requestId)
+	public function create($requestId, Request $request)
 	{
+		
+		if ( $request->session()->has('register') ) {
+			return view('pages.completed');
+		} 
+		
 		return view('pages.request', [
 			'id' => $requestId
 		]);
@@ -63,10 +68,10 @@ class RequestController extends Controller
 			'primary'=> 1,
 		]);
 
-		if ($request->get('requestId') == Packages::FREE) {
-			return redirect('/')->with('status', 'Profile updated');
-		}
+		session([
+			'register' => $request->except('_token')
+		]);
 
-		return redirect('/')->with('status', 'Profile updated');
+		return view('pages.completed');
 	}
 }

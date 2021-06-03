@@ -6,8 +6,7 @@
       <section class="section_account">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-md-6 col-lg-5 mx-auto">
-
+            <div class="col-md-3 mx-auto">
 
               <div class="box--signup">
                 <div class="title text-center">

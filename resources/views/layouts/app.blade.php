@@ -5,13 +5,11 @@
   @include('layouts.meta')
   @include('layouts.headerCss')
 </head>
+<body class="" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
 
-<body>
-  <div id="wrapper">
-    <div id="content">
+
       @yield('content')
-    </div>
-  </div>
+
 
   <x-prgoress_indicator/>
   

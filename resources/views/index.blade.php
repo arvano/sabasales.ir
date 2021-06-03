@@ -9,9 +9,9 @@
           <p>
             {{ __('global.The SabaSales that makes your sales easy')}}
           </p>
-          <button type="button" class="btn scale rounded-pill btn-video btn_video" >
+          <a href="{{ route('register', "60b4b5c2dd5add8ba") }}"  class="btn scale rounded-pill btn-video btn_video" >
             {{ __('global.try it free') }}
-          </button>
+          </a>
         </x-banner.banner-product>
 
 
