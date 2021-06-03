@@ -37,20 +37,20 @@ return [
 	'modules managemanet' => 'به سرویس های بیرون متصل شوید.',
 	'lable managemanet' => 'برای کاربران تیم، نقش و دسترسی تعریف کنید',
 	'report managemanet' => 'از وضعیت فروش و عملکرد تیم گزارش تهیه کنید',
+
 	'Product Intro' => 'صبا در یک نگاه',
 	'Beautiful docs for your APIs' => 'طراحی زیبا و کارآمد، قابل استفاده در رایانه و گوشی همراه',
 	'Github Sync' => 'یکپارچگی',
-	'Keep your workflow and sync your docs with GitHub' => 'با برنامه های دیگر  برای افزایش فروش متصل شوید، مثل گوگل، میلی چیمپ و مسیریاب‌ها
-
-',
-
-
+	'Keep your workflow and sync your docs with GitHub' => 'با برنامه های دیگر  برای افزایش فروش متصل شوید، مثل گوگل، میلی چیمپ و مسیریاب‌ها',
 	'Manage leads and deals' => 'مدیریت معاملات',
 	'Get more hot leads fed straight' => 'معاملات را به صورت کانبان و لیستی مشاهده و به راحتی نمای کلی ار سرنخ خود را در لحظه مشاهده کنید',
 	'Track communications' => 'ردیابی سوابق و پیگیری',
 	'Track communications doc' => 'تماس ها ، ایمیل ها و تاریخچه تماس ها را دقیقاً در محلی که نیاز دارید ردیابی کنید',
 	'Insights and reports workflow' => 'اطلاعت عمیق از گزارش‌ها بگیرید و عملکرد شرکت را در برابر اهداف تعیین شده اندازه گیری کنید',
 	'Insights and reports' => 'بینش ها و گزارش ها',
+	'Privacy and security detail' => 'در مورد زمان استفاده از داده های کسب و کار خود شفافیت و آرامش کامل داشته باشید',
+	'Privacy and security' => 'حریم خصوصی و امنیت',
+
 	'comminsoom' => 'به زودی قرار داده می شود',
 	'learn book' => 'کاتالوک آموزشی',
 	'Get Started Free' => 'ثبت نام',

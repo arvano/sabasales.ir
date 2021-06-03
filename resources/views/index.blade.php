@@ -198,9 +198,9 @@
                   <div class="icon_t">
                     <i class="tio sms_active_outlined"></i>
                   </div>
-                  <h3>{{ __('global.Github Sync') }}</h3>
+                  <h3>{{ __('global.Privacy and security') }}</h3>
                   <p>
-                    {{ __('global.Keep your workflow and sync your docs with GitHub') }}
+                    {{ __('global.Privacy and security detail') }}
                   </p>
                 </div>
               </div>
