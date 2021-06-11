@@ -37,8 +37,9 @@ return [
          * The default configurations to be used by the opengraph generator.
          */
         'defaults' => [
-            'title'       => 'Over 9000 Thousand!', // set false to total remove
-            'description' => 'For those who helped create the Genki Dama', // set false to total remove
+            'title'        => "صبا سلز | نرم افزار مدیریت ارتباط با مشتری (سی آر ام) صبا", // set 
+            'description'  => 'نرم افزار CRM صبا سلز |   ۱۰۰ درصدر رضایت مشتری  | راه ایده آل برای فروش بیشتر
+صبا به شما این امکان را میدهد تا تمام اطلاعات مشتریان خود را در یک مکان جمع آوری کرده و معاملات خود را پیگری کنید.', 
             'url'         => false, // Set null for using Url::current(), set false to total remove
             'type'        => false,
             'site_name'   => false,
