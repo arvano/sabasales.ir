@@ -51,9 +51,7 @@ class User extends Authenticatable
      * @var array
      */
     protected $casts = [
-        'email_verified_at' => 'datetime',
         'id' => 'string',
-        'account_id' => 'string'
     ];
 
     public $incrementing = false;

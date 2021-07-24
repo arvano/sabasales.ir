@@ -12,7 +12,7 @@ const mix = require('laravel-mix');
  */
 
 mix.styles([
-        'public/assets/css/bootstrap-rtl.min.css', 
+        // 'public/assets/css/bootstrap-rtl.min.css', 
         'public/assets/css/animate.css', 
         'public/assets/css/swiper.min.css', 
         'public/assets/css/icons.css', 
@@ -45,4 +45,10 @@ mix.combine([
         'public/assets/js/pages/sass.js',
         ], 'public/assets/js/app.js');
 
+mix.styles('public/assets/css/app.css')
+mix.minify('public/assets/js/app.js')
 
+
+mix.browserSync({
+    proxy: 'http://localhost:8000'
+});
