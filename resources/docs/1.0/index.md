@@ -1,0 +1,7 @@
+- ## راهنمای کاربر
+    - [آشنایی اولیه](/{{route}}/{{version}}/overview)
+    - ## مدیریت فروش
+    - [سرنخ](/{{route}}/{{version}}/leads)
+    - [فرصت](/{{route}}/{{version}}/opportunities)
+    - [ارز](/{{route}}/{{version}}/currency)
+    - [تجزیه و تحلیل فروش](/{{route}}/{{version}}/sales_analytics)
