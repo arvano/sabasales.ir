@@ -4,3 +4,4 @@
     - [مدیریت فروش](/{{route}}/{{version}}/sales-management)
     - [مدیریت پرونده](/{{route}}/{{version}}/case-management)
     - [فعالیتها و تقویم](/{{route}}/{{version}}/activities-and-calendar)
+    - [محصولات](/{{route}}/{{version}}/product)
