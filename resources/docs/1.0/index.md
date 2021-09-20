@@ -1,7 +1,6 @@
-- ## راهنمای کاربر
+- ## راهنما 
     - [آشنایی اولیه](/{{route}}/{{version}}/overview)
-    - ## مدیریت فروش
-    - [سرنخ](/{{route}}/{{version}}/leads)
-    - [فرصت](/{{route}}/{{version}}/opportunities)
-    - [ارز](/{{route}}/{{version}}/currency)
-    - [تجزیه و تحلیل فروش](/{{route}}/{{version}}/sales_analytics)
+    - ### راهنمای کاربری 
+    - [مدیریت فروش](/{{route}}/{{version}}/sales-management)
+    - [مدیریت پرونده](/{{route}}/{{version}}/case-management)
+    - [فعالیتها و تقویم](/{{route}}/{{version}}/activities-and-calendar)
