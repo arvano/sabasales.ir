@@ -30,6 +30,7 @@
             <x-nav-item route="#Pricing" name="{{ __('global.Pricing') }}"/>
             <x-nav-item route="#Modules" name="{{ __('global.Modules') }}"/>
             <x-nav-item route="#Aboute" name="{{ __('global.Aboute') }}"/>
+            <x-nav-item route="/docs" name="{{ __('global.Help') }}"/>
           </x-nav>
           <!-- End Navbar -->
         </div>
